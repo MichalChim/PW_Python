@@ -1,0 +1,1 @@
+animals = ["słoń", "gepard", "żyrafa"]
