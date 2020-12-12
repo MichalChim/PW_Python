@@ -1,7 +1,6 @@
 Curabitur dignissim viverra nibh, in scelerisque lectus tincidunt id. Morbi ut justo sit amet mauris scelerisque rutrum. Cras non dapibus dui. Nulla facilisi. Sed ut imperdiet tortor. 
-Proin egestas justo ac ipsum ultricies efficitur. 
 Aliquam congue tincidunt massa eget auctor. 
 Proin vehicula eget metus quis venenatis. 
-Integer luctus id diam nec consectetur. 
+
 Donec libero lorem, imperdiet vitae euismod a, cursus sagittis mauris. Etiam tempus eros in ultrices varius. Nullam sed porta ex. Nullam scelerisque nisi vitae justo varius convallis. Fusce mi felis, lobortis vel ultricies at, hendrerit a velit. 
 Fusce vitae eros nec nulla sagittis suscipit in lacinia magna. Sed bibendum libero fermentum ante convallis consectetur.
